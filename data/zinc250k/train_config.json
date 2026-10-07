@@ -1,0 +1,1 @@
+{"save_dir": "/home/pycao/PS-VAE-main-1/data/zinc250k", "lr": 0.001, "max_epoch": 10, "metric_min_better": true, "patience": 3, "grad_clip": 1.0}
